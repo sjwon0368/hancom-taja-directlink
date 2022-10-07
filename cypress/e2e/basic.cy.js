@@ -5,7 +5,7 @@ describe('Manifesting Web...', () => {
 
   it('Get Init Components...', () => {
     cy.get('h1')
-    .contains('Welcome to my app!');
+    .contains('한컴타자 다이렉트링크');
   })
   })
 })

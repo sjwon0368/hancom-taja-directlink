@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>한컴타자 다이렉트링크</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 

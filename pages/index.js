@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="한컴타자 다이렉트링크" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          아래 <code>링크</code>를 클릭해 한컴타자 <code>게임과 프로그램</code>을 즐기세요!
         </p>
       </main>
 

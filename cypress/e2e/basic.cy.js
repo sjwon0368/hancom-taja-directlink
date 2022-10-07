@@ -7,5 +7,4 @@ describe('Manifesting Web...', () => {
     cy.get('h1')
     .contains('Welcome to my app!');
   })
-  })
 })

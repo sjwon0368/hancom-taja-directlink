@@ -7,11 +7,5 @@ describe('Manifesting Web...', () => {
     cy.get('h1')
     .contains('Welcome to my app!');
   })
-  it('Netlify Logo Render...', () => {
-    cy.get('img')
-    .should('be.visible')
-    .and(($img) => {
-      expect($img[0].naturalWidth).to.be.greaterThan(0);
-    })
   })
 })

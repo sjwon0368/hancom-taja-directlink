@@ -28,7 +28,7 @@ export default function Home() {
           <a target='_blank' href='https://tt-block-c.malangmalang.com/Flip01/WebContent/'>판뒤집기</a>
         </p>
         <p className="description">
-          <code className='warnCode'>안내! 현재 말랑말랑 산성비는 대전교육정보원에 의해 차단되었기 때문에 집에서 개인 컴퓨터로 접속해주세요!</code>
+          <code className='warnCode'>안내! 현재 말랑말랑 산성비는 대전교육정보원에 의해 접속이 제한되었기 때문에 집에서 개인 컴퓨터로 접속해주세요!</code>
         </p><br/>
         <p className="description">
           <a target='_blank' disabled href='https://rain.malangmalang.com/'>말랑말랑 산성비</a>

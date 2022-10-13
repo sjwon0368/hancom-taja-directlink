@@ -19,7 +19,10 @@ export default function Home() {
           <a target='_blank' href='https://tt-exam-c.malangmalang.com/typing/WebContent/?exercise=typing-writing'>한컴타자</a>
         </p>
         <p className="description">
-          <a target='_blank' href='https://tt-coin-c.malangmalang.com/coinpile_sample/WebContent/?channel=1'>동전쌓기</a>
+          <a target='_blank' href='https://tt-coin-c.malangmalang.com/coinpile_sample/WebContent/?channel=1'>동전쌓기 채널 1</a>
+        </p>
+        <p className="description">
+          <a target='_blank' href='https://tt-coin-c.malangmalang.com/coinpile_sample/WebContent/?channel=2'>동전쌓기 채널 2</a>
         </p>
         <p className="description">
           <a target='_blank' href='https://tt-mole-c.malangmalang.com/mole/WebContent/'>두더지잡기</a>

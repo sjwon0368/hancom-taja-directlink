@@ -19,7 +19,7 @@ export default function Home() {
           <a target='_blank' href='https://tt-exam-c.malangmalang.com/typing/WebContent/?exercise=typing-writing'>한컴타자</a>
         </p>
         <p className="description">
-          <code className='warnCode'>안내: 현재 한컴타자 동전쌓기는 말랑말랑플렛폼 <br/>서비스 업데이트에 의해 서버가 일시적으로 중단되었기 때문에 접속이 불가능 할 수 있습니다.</code>
+          <code className='warnCode'>안내: 현재 한컴타자 동전쌓기는 말랑말랑플렛폼 서비스 업데이트에 의해 서버가 일시적으로 중단되었기 때문에 접속이 불가능 할 수 있습니다.</code>
         </p><br/>
         <p className="description">
           <a target='_blank' href='https://tt-coin-c.malangmalang.com/coinpile_sample/WebContent/?channel=1'>동전쌓기 채널 1</a>

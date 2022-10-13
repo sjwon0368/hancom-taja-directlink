@@ -4,7 +4,8 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-        Copyright 2022. All rights reseved.
+        한컴타자 다이렉트링크는 <a target='_blank' href='https://github.com'>GitHub</a>와 <a href='https://app.netlify.com/' target='_blank'>Netlify</a>의 도움으로 만들어졌습니다.
+        Version 2.4.0 Build 86747598634736659781 <code>master</code>/<code>45fec8d</code>
       </footer>
     </>
   )

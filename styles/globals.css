@@ -35,3 +35,17 @@ code {
   justify-content: center;
   align-items: center;
 }
+
+.warnCode {
+  font-weight: bold;
+  color: red;
+  font-family: Menlo, Monaco, Lucida Console, Courier New, monospace, 'SF Pro Text', 'SF Pro Icons', 'Helvetica Neue', 'Helvetica',
+    'Arial', sans-serif, 'Lato';
+}
+
+a {
+  color: #07b1fa;
+  font-weight: bold;
+  font-family: Menlo, Monaco, Lucida Console, Courier New, monospace, 'SF Pro Text', 'SF Pro Icons', 'Helvetica Neue', 'Helvetica',
+    'Arial', sans-serif, 'Lato';
+}

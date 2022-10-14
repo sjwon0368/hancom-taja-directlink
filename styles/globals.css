@@ -38,7 +38,7 @@ code {
 
 .warnCode {
   font-weight: bold;
-  color: red;
+  color: orange;
   font-family: Menlo, Monaco, Lucida Console, Courier New, monospace, 'SF Pro Text', 'SF Pro Icons', 'Helvetica Neue', 'Helvetica',
     'Arial', sans-serif, 'Lato';
 }

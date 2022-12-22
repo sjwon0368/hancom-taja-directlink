@@ -16,7 +16,7 @@ export default function Home() {
           아래 <code>링크</code> 중 하나를 클릭해 한컴타자의 여러가지 <code>게임과 프로그램</code>을 즐기세요!
         </p>
         <p className="description">
-          <a target='_blank' href='https://tt-exam-c.malangmalang.com/typing/WebContent/?exercise=typing-writing'>한컴타자</a>
+          <a target='_blank' href='https://tt.hancomtyping.com/?t=&r='>한컴타자</a>
         </p>
         <p className="description">
           <code className='warnCode'>안내: 현재 한컴타자 동전쌓기는 말랑말랑플렛폼 서비스 업데이트에 의해 서버가 일시적으로 중단되었기 때문에 접속이 불가능 할 수 있습니다.</code>

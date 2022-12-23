@@ -22,7 +22,7 @@ export default function Home() {
           <code className='warnCode'>안내: 최신 버전의 한컴타자는 온라인 Unity플레이어로 만들어졌기 떄문에 불러오는 데 다소 시간이 걸릴 수 있습니다.</code>
         </p><br/>
         <p className="description">
-          <a target='_blank' href='https://tt-coin-c.malangmalang.com/coinpile_sample/WebContent/?channel=1'>동전쌓기 채널 1</a>
+          <a target='_blank' href='https://game-wcs.hancomtyping.com/?t=&r='>워드 크러시 사가</a>
         </p>
         <p className="description">
           <a target='_blank' href='https://tt-coin-c.malangmalang.com/coinpile_sample/WebContent/?channel=2'>동전쌓기 채널 2</a>
